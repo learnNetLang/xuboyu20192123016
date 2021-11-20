@@ -1,7 +1,8 @@
-#xuboyu的个人主页
+#徐博宇的个人主页
 
 
-## Welcome to GitHub Pages
+
+## 写啥好呢？也不知道写啥
 
 You can use the [editor on GitHub](https://github.com/learnNetLang/xuboyu20192123016/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
